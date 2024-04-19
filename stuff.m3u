@@ -49,6 +49,46 @@ https://w2.btstream.xyz:2053/tv/private/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 https://w2.btstream.xyz:2053/tv/barely/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI0IDU6NTY6NDggUE0maGFzaF92YWx1ZT1wejlNYTN1ZnhXOWF0WG9PMTVhdUJRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-id="CentXCento.us",Cent X Cento
 https://w2.btstream.xyz:2053/tv/cento/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI0IDU6NTc6MjAgUE0maGFzaF92YWx1ZT1zYkorR2luZ0VVZ2JQSEQyMWVtYnZnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-id="Venus.us",Venus
+https://nimble.adultstvlive.com/jinxtv/buddoServo_venus/playlist.m3u8
+#EXTINF:-1 tvg-id="RussianNightLive.ru",Russian Night Live
+https://nimble.adultstvlive.com/liveCDN/jinxtvrussinight/playlist.m3u8
+#EXTINF:-1 tvg-id="BabeStation24.de",Babe Station 24
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/66189f690e9b1_12812337_2404120241_720p.m3u8
+#EXTINF:-1 tvg-id="DorcelTV.us",Dorcel TV
+https://nimble.adultstvlive.com/jinxtv/ru-Dorcel-Jinx-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us",AdultIPTV.net Asian (720p)
